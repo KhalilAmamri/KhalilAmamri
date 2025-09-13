@@ -5,7 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -22,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
@@ -47,3 +49,13 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<div align="center">
+
+  ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalilAmamri&show_icons=true&theme=radical)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilAmamri&layout=compact&theme=radical)
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=KhalilAmamri&theme=radical&hide_border=false)
+
+</div>
