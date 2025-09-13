@@ -5,10 +5,15 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/khalilamamri/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+    <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Khalil-Amamri/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="25" alt="leetcode logo"  />
+  </a>
 </div>
+
 
 ###
 
