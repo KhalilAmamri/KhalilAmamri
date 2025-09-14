@@ -7,14 +7,14 @@
 <div align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/khalilamamri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="40" alt="LinkedIn logo" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" height="40" alt="LinkedIn logo" />
   </a>
   
   <img width="20" />
   
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/Khalil-Amamri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="40" alt="LeetCode logo" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/leetcode.svg" height="40" alt="LeetCode logo" />
   </a>
 </div>
 
@@ -50,10 +50,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-<!-- BI Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
-  <img width="6" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" height="40" alt="Excel logo" />
+  <!-- BI Tools -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg" height="40" alt="Power BI logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" height="40" alt="Excel logo" />
 
 </div>
 
