@@ -7,14 +7,14 @@
 <div align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/khalilamamri/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="40" alt="LinkedIn logo" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="40" alt="LinkedIn logo" />
   </a>
   
   <img width="20" />
   
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/Khalil-Amamri/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/LeetCode_logo_white_no_text.svg" height="40" alt="LeetCode logo" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="40" alt="LeetCode logo" />
   </a>
 </div>
 
@@ -53,7 +53,7 @@
 <!-- BI Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="6" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" height="40" alt="Excel logo" />
 
 </div>
 
