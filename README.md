@@ -7,14 +7,16 @@
 <div align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/khalilamamri/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" height="40" alt="LinkedIn logo" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn logo" /> 
   </a>
   
   <img width="20" />
   
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/Khalil-Amamri/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/leetcode.svg" height="40" alt="LeetCode logo" />
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30" alt="LeetCode logo" />
+
+
   </a>
 </div>
 
@@ -51,9 +53,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <!-- BI Tools -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg" height="40" alt="Power BI logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" height="40" alt="Excel logo" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" alt="Excel logo" />
+
 
 </div>
 
