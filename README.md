@@ -5,12 +5,16 @@
 ###
 
 <div align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/khalilamamri/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="40" alt="LinkedIn logo" />
   </a>
-    <!-- LeetCode -->
+  
+  <img width="20" />
+  
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/Khalil-Amamri/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="25" alt="leetcode logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/LeetCode_logo_white_no_text.svg" height="40" alt="LeetCode logo" />
   </a>
 </div>
 
