@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">👋 Hi there, I'm Khalil — Passionate about Backend & BI</h1>
+<h1 align="center">👋 Hi there, I'm Khalil — Passionate about Software Engineering & BI</h1>
 
 
 ###
@@ -32,7 +32,13 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Khalil  <br>💻 I'm a beginner developer passionate about backend development and Business Intelligence (BI).  <br>📚 I'm currently learning Python, Flask, and problem-solving with LeetCode.  <br>⚡ In my free time, I enjoy exploring new technologies and practicing coding challenges.</p>
+<p align="left">
+👋 Hi, I'm Khalil <br>
+💻 I'm a beginner software engineer passionate about software engineering and Business Intelligence (BI). <br>
+📊 I enjoy working with BI tools like Power BI and Excel to analyze and visualize data. <br>
+📚 I'm currently learning Python, Flask, and problem-solving with LeetCode. <br>
+⚡ In my free time, I enjoy exploring new technologies, building projects, and practicing coding challenges.
+</p>
 
 ###
 
