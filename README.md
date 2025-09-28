@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">👋 Hi there, I'm Khalil — Passionate about Software Engineering & BI</h1>
+<h1 align="center">👋 Hi, I'm Khalil — Passionate Software Engineer in Learning & ML/BI Enthusiast</h1>
 
 
 ###
@@ -33,11 +33,12 @@
 ###
 
 <p align="left">
-👋 Hi, I'm Khalil <br>
-💻 I'm a beginner software engineer passionate about software engineering and Business Intelligence (BI). <br>
-📊 I enjoy working with BI tools like Power BI and Excel to analyze and visualize data. <br>
-📚 I'm currently learning Python, Flask, and problem-solving with LeetCode. <br>
-⚡ In my free time, I enjoy exploring new technologies, building projects, and practicing coding challenges.
+👋 Hi, I'm Khalil
+💻 Beginner software engineer exploring software engineering and Business Intelligence (BI).
+📊 Learning Power BI and Excel for data analysis and visualization through hands-on projects.
+📚 Actively studying Python, Flask (for web development), and LeetCode problem-solving.
+🔥 Developing my first ML project: Potato Disease Classification with TensorFlow.
+⚡ Passionate about experimenting with new technologies and building innovative projects.
 </p>
 
 ###
@@ -57,11 +58,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <!-- BI Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" alt="Excel logo" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" alt="Excel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo" />
+</div>
 
 
 </div>
