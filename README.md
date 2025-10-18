@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">👋 Hi, I'm Khalil — Passionate Software Engineer in Learning & ML/BI Enthusiast</h1>
+<h1 align="center">I'm Khalil 👋 — Passionate Software Engineer & ML/BI Enthusiast</h1>
 
 
 ###
@@ -34,10 +34,10 @@
 
 <p align="left">
 👋 Hi, I'm Khalil
-💻 Beginner software engineer exploring software engineering and Business Intelligence (BI).
-📊 Learning Power BI and Excel for data analysis and visualization through hands-on projects.
-📚 Actively studying Python, Flask (for web development), and LeetCode problem-solving.
-🔥 Developing my first ML project: Potato Disease Classification with TensorFlow.
+💻 Beginner software engineer exploring software engineering and Business Intelligence (BI).<br>
+📊 Learning Power BI and Excel for data analysis and visualization through hands-on projects.<br>
+📚 Actively studying Python, Flask (for web development), and LeetCode problem-solving.<br>
+🔥 Developing my first ML project: Classification of plant diseases with TensorFlow.<br>
 ⚡ Passionate about experimenting with new technologies and building innovative projects.
 </p>
 
