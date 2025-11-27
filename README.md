@@ -33,11 +33,10 @@
 ###
 
 <p align="left">
-👋 Hi, I'm Khalil
 💻 Beginner software engineer exploring software engineering and Business Intelligence (BI).<br>
 📊 Learning Power BI and Excel for data analysis and visualization through hands-on projects.<br>
 📚 Actively studying Python, Flask (for web development), and LeetCode problem-solving.<br>
-🔥 Developing my first ML project: Classification of plant diseases with TensorFlow.<br>
+🤖 Exploring Machine Learning and developing skills to build intelligent systems.<br>
 ⚡ Passionate about experimenting with new technologies and building innovative projects.
 </p>
 
