@@ -77,10 +77,18 @@
 
 <div align="center">
 
+  <!--
   ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalilAmamri&show_icons=true&theme=radical)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilAmamri&layout=compact&theme=radical)
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=KhalilAmamri&theme=radical&hide_border=false)
+  -->
+  ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilamamri&show_icons=true&theme=radical&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilamamri&layout=compact&theme=radical&cache_seconds=86400)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=khalilamamri&theme=radical)
+
 
 </div>
