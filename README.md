@@ -35,7 +35,7 @@
 <p align="left">
 💻 Beginner software engineer exploring software engineering and Business Intelligence (BI).<br>
 📊 Learning Power BI and Excel for data analysis and visualization through hands-on projects.<br>
-📚 Actively studying Python, Flask (for web development), and LeetCode problem-solving.<br>
+📚 Actively studying Python, Streamlit (for web development), and LeetCode problem-solving.<br>
 🤖 Exploring Machine Learning and developing skills to build intelligent systems.<br>
 ⚡ Passionate about experimenting with new technologies and building innovative projects.
 </p>
