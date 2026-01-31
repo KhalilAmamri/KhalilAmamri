@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">I'm Khalil 👋 — Passionate Software Engineer & ML/BI Enthusiast</h1>
+<h1 align="center">I'm Khalil 👋 — Aspiring Data Analyst & Business Intelligence Developer</h1>
 
 
 ###
@@ -33,11 +33,11 @@
 ###
 
 <p align="left">
-💻 Beginner software engineer exploring software engineering and Business Intelligence (BI).<br>
-📊 Learning Power BI and Excel for data analysis and visualization through hands-on projects.<br>
-📚 Actively studying Python, Streamlit (for web development), and LeetCode problem-solving.<br>
-🤖 Exploring Machine Learning and developing skills to build intelligent systems.<br>
-⚡ Passionate about experimenting with new technologies and building innovative projects.
+🎓 Business student focused on Data Analytics & BI
+  
+📊 Working with Power BI, Python, Machine Learning (regression, forecasting)
+
+💻 Building Streamlit apps and analyzing data with Pandas & SQL
 </p>
 
 ###
@@ -61,7 +61,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" alt="Excel logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo" />
 </div>
