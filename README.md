@@ -2,9 +2,9 @@
 
 # Khalil Amamri
 
-### Data Analytics & Business Intelligence | Python | SQL | Power BI
+### Learning AI and Machine Learning
 
-Turning data into practical insights, dashboards, and useful applications.
+Understanding how AI works under the hood—not only how to use it.
 
 [LinkedIn](https://www.linkedin.com/in/khalilamamri/) · [LeetCode](https://leetcode.com/u/Khalil-Amamri/)
 
@@ -12,11 +12,9 @@ Turning data into practical insights, dashboards, and useful applications.
 
 ## About me
 
-I am a business student at the Higher Institute of Business Administration of Sfax, focused on data analytics and business intelligence. I enjoy working across the full path from data collection and cleaning to analysis, visualization, and deployment.
+I am currently learning **machine learning and artificial intelligence**, with a focus on understanding the ideas behind models, how they learn, and why they behave the way they do.
 
-- Building analytical dashboards and data applications with **Power BI, Python, Streamlit, and SQL**
-- Exploring **machine learning**, especially regression, forecasting, and practical prediction problems
-- Interested in projects that connect technical work with clear business decisions
+Previously, I studied **business intelligence and data analytics**, where I worked with data analysis, dashboards, and practical data projects. I am now building on that foundation to understand AI more deeply.
 
 ## Featured projects
 
@@ -28,22 +26,10 @@ I am a business student at the Higher Institute of Business Administration of Sf
 | [CodeFlow](https://github.com/KhalilAmamri/CodeFlow) | Learning management system built with Flask, SQLAlchemy, and Bootstrap |
 | [Walmart Sales Power BI Dashboard](https://github.com/KhalilAmamri/Walmart-Sales-PowerBI-Dashboard) | Sales analysis, KPI design, and business-focused visualization in Power BI |
 
-## Tech stack
+## Current focus
 
-**Analytics:** Python, Pandas, NumPy, Jupyter, SQL, Excel  
-**Business intelligence:** Power BI, DAX, data visualization  
-**Data & applications:** PostgreSQL, Streamlit, FastAPI, React, Flask  
-**Machine learning:** Scikit-learn, regression, forecasting  
-**Tools:** Git, GitHub
+- Machine learning fundamentals
+- How neural networks learn
+- Understanding model behavior and decisions
+- The foundations behind modern AI systems
 
-## Currently learning
-
-- Building more reliable end-to-end data products
-- Improving data storytelling and dashboard design
-- Deploying machine learning models and analytics applications
-
-<div align="center">
-
-![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalilAmamri&show_icons=true&hide_border=true&theme=default)
-
-</div>
