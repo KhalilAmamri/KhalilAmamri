@@ -1,95 +1,49 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
-###
+# Khalil Amamri
 
-<div align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/khalilamamri/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn logo" /> 
-  </a>
-  
-  <img width="20" />
-  
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Khalil-Amamri/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30" alt="LeetCode logo" />
+### Data Analytics & Business Intelligence | Python | SQL | Power BI
 
+Turning data into practical insights, dashboards, and useful applications.
 
-  </a>
-</div>
-
-
-###
-
-<h1 align="center">I'm Khalil 👋 — Aspiring Data Analyst & Business Intelligence Developer</h1>
-
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">
-🎓 Business student focused on Data Analytics & BI
-  
-📊 Working with Power BI, Python, Machine Learning (regression, forecasting)
-
-💻 Building Streamlit apps and analyzing data with Pandas & SQL
-</p>
-
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="40" alt="streamlit logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <!-- BI Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" alt="Excel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo" />
-</div>
-
+[LinkedIn](https://www.linkedin.com/in/khalilamamri/) · [LeetCode](https://leetcode.com/u/Khalil-Amamri/)
 
 </div>
 
-###
+## About me
 
-<h3 align="left">🔥   My Stats :</h3>
+I am a business student at the Higher Institute of Business Administration of Sfax, focused on data analytics and business intelligence. I enjoy working across the full path from data collection and cleaning to analysis, visualization, and deployment.
 
-###
+- Building analytical dashboards and data applications with **Power BI, Python, Streamlit, and SQL**
+- Exploring **machine learning**, especially regression, forecasting, and practical prediction problems
+- Interested in projects that connect technical work with clear business decisions
+
+## Featured projects
+
+| Project | What it demonstrates |
+| --- | --- |
+| [CHO MarketWatch](https://github.com/KhalilAmamri/cho-marketwatch) | Price monitoring and analytics platform with FastAPI, React, automated scraping, ETL, and PostgreSQL |
+| [Car Valuation Tunisia](https://github.com/KhalilAmamri/Car_Valuation_Tunisia) | Regression-based used-car price estimation with an interactive Streamlit app |
+| [Chat Your Data CSV](https://github.com/KhalilAmamri/chat-your-data-csv) | Natural-language CSV analysis using LLM tooling and LangChain agents |
+| [CodeFlow](https://github.com/KhalilAmamri/CodeFlow) | Learning management system built with Flask, SQLAlchemy, and Bootstrap |
+| [Walmart Sales Power BI Dashboard](https://github.com/KhalilAmamri/Walmart-Sales-PowerBI-Dashboard) | Sales analysis, KPI design, and business-focused visualization in Power BI |
+
+## Tech stack
+
+**Analytics:** Python, Pandas, NumPy, Jupyter, SQL, Excel  
+**Business intelligence:** Power BI, DAX, data visualization  
+**Data & applications:** PostgreSQL, Streamlit, FastAPI, React, Flask  
+**Machine learning:** Scikit-learn, regression, forecasting  
+**Tools:** Git, GitHub
+
+## Currently learning
+
+- Building more reliable end-to-end data products
+- Improving data storytelling and dashboard design
+- Deploying machine learning models and analytics applications
 
 <div align="center">
 
-  
-  ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalilAmamri&show_icons=true&theme=radical&cache_seconds=86400)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilAmamri&layout=compact&theme=radical&cache_seconds=86400)
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=KhalilAmamri&theme=radical)
-  
-  <!--
-  ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilamamri&show_icons=true&theme=radical&cache_seconds=86400)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilamamri&layout=compact&theme=radical&cache_seconds=86400)
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=khalilamamri&theme=radical)
-  -->
-
+![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalilAmamri&show_icons=true&hide_border=true&theme=default)
 
 </div>
